@@ -2,16 +2,6 @@
 
 Pygame based easy-to-use interactive visualizer for A-Star Path Finding Algorithm.
 
-## Demo
-
-### Manual Mode
-
-![Example](assets/example1.gif)
-
-### Random Mode
-
-![Example](assets/example2.gif)
-
 Color Code:
 
 - `Yellow`: Start Node
