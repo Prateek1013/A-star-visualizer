@@ -30,7 +30,7 @@ pip install pygame
 ## Installation
 
 ``` bash
-git clone https://github.com/mradul2/astar-visualizer.git
+git clone https://github.com/Prateek1013/A-star-visualizer.git
 ```
 
 ## Usage
